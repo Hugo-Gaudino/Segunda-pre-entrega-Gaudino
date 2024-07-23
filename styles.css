@@ -1,0 +1,18 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: black;
+  color: white;
+}
+
+.titulo {
+  color: brown;
+  text-align: center;
+  background-color: yellow;
+}
+
+.tabla {
+  border: 4px solid red;
+  width: 215px;
+}
